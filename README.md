@@ -5,7 +5,7 @@
 - 🧩 Was a Google Step intern this past Summer!
   -  Worked on the Firebase Team. Made a website as a side project using Firebase: sites2cwebsite
   
-- ⚡ Fun fact: I play on the Varsity Football team here at Rose  
+- ⚡ Fun fact: I play on the Varsity Football team at Rose  
 
 - 🔭 To see some of my school projects I've worked on, visit my other Github account: https://github.com/rhit-gizaw1  
 
