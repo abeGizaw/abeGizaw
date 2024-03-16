@@ -17,6 +17,9 @@
 
 - ⚡ Fun fact **Was a Google Step intern this past Summer!**
     -  Worked on the Firebase Team. Made a website as a side project using Firebase: [sites2cwebsite](https://github.com/abeGizaw/sites2cwebsite)
+ 
+
+- ☀️ This summer I will be working at Netflix as a SWE intern on the Content Promotion and Distribution Team
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
