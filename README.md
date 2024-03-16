@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abegizaw&label=Profile%20views&color=0e75b6&style=flat" alt="abegizaw" /> </p>
 
-- 🔭 I’m currently working on [Sudoku solver using AI](https://github.com/abeGizaw/Ai-Sudoku)
+- 🔭 Most Recent work: I recently finished working on a [Sudoku solver using DLX (Will enahnce to use AI in the future)](https://github.com/abeGizaw/Ai-Sudoku)
 
 - 🌱 I’m currently learning **about Artificial Intelligence and Neural Networks**
 
