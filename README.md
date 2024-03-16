@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Sudoku solver using AI](https://github.com/abeGizaw/Ai-Sudoku)
 
-- 🌱 I’m currently learning **about Artificial Intelligence and Computer Architecture**
+- 🌱 I’m currently learning **about Artificial Intelligence and Neural Networks**
 
-- 👨‍💻 All of my projects are available here or on my school account [rhit-gizaw1](https://github.com/rhit-gizaw1)
+- 👨‍💻 Some of my school projects are available here [rhit-gizaw1](https://github.com/rhit-gizaw1)
 
 - 📫 How to reach me:
   -   Gmail: **gizawabe3@gmail.com**
