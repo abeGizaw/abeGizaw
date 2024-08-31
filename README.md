@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abe Gizaw</h1>
-<h3 align="center">I’m currently a junior Software Engineering major at Rose-Hulman.</h3>
+<h3 align="center">I’m currently a senior Software Engineering major at Rose-Hulman.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abegizaw&label=Profile%20views&color=0e75b6&style=flat" alt="abegizaw" /> </p>
 
-- 🔭 Most Recent work: I recently finished working on a [Sudoku solver using DLX (Will enhance to use AI in the future)](https://github.com/abeGizaw/Ai-Sudoku)
+- 🔭 Most Recent work: I recently finished working on a [CNN From Scratch](https://github.com/abeGizaw/MNIST-CNN)
 
 - 🌱 I’m currently learning **about Artificial Intelligence and Neural Networks**
 
@@ -15,11 +15,10 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1i9xYF8DEZuFYM2uOAISrF7lbXbF8gADU/view?usp=sharing)
 
-- ⚡ Fun fact **Was a Google Step intern this past Summer!**
-    -  Worked on the Firebase Team. Made a website as a side project using Firebase: [sites2cwebsite](https://github.com/abeGizaw/sites2cwebsite)
- 
+- ⚡ Fun facts:
+    -  **Was a Google Step intern my sophmore  Summer!**. Worked on the Firebase Team. Made a website as a side project using Firebase: [sites2cwebsite](https://github.com/abeGizaw/sites2cwebsite)
+    -  **Was a Netflix intern this past Summer!**
 
-- ☀️ This summer I will be working at Netflix as a SWE intern on the Content Promotion and Distribution Team
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
